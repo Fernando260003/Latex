@@ -1,0 +1,14 @@
+# Ecuaciones-Diferenciales
+En este repositorio se encuentra mi trabajo de ecuaciones diferenciales con los respectivos archivos, como codigos de mathlab , LaTex y el respectivo PDF
+1. Primero se debe copiar el codigo que aparece en el archivo.txt de nombre "Codigo de Latex Daniel Fernado Ordoñez Moncayo 
+2. se debe pegar en el editor de texto de latex
+3. Descpues se debe compilarlo
+
+Nota: si el indice no carga se debe comporlar mas de una vez 
+
+4. Copiar el codigo de MathLab que aparece en el archivo, de nombre "Codigo de Mathlab Daniel Fernando Ordoñez Moncayo"
+5. Pegar el codigo en  Mathlab 
+6. compilar el codifo en MathLab 
+
+Nota: en esta acrpeta tambien se encuentran los respectivos arhivos de latex(.lex) y mathlab(.m), uselos en caso de qeu los codigos anteriores no le hayan funcionado 
+
